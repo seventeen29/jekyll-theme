@@ -1,29 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Cipherboard
+    i18n: 
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Lead the team to build a custom keyboard
+    i18n: 
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: From July. 2015
+    i18n: 
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Hear of Engineering
+    i18n: 
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Viki Pte Ltd 
+    i18n: 
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Redesigning the architecture at Viki to improve consistency and to become scalable.
+    i18n: 
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: From Dec 2015
+    i18n: 
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Software Engineer
+    i18n: 
+  icon: fa-plus-square
+
+- name:
+    detail: Fastacash Pte Ltd
+    i18n: 
+  desc:
+    detail: Designed and managed the team at Fastacash in developing RESTful APIs.
+    i18n: 
+  date:
+    detail: From Apr 2013
+    i18n: 
+  job:
+    detail: Engineering Lead
+    i18n: 
+  icon: fa-plus-square
+
+- name:
+    detail: Veveo (I) Pvt Ltd
+    i18n: 
+  desc:
+    detail: Developed Universal Smart Search for Nokia devices.
+    i18n: 
+  date:
+    detail: From Jun 2007
+    i18n: 
+  job:
+    detail: Techincal Lead
+    i18n: 
   icon: fa-plus-square

@@ -1,10 +1,10 @@
-# <a name="jalpc"></a>Jalpc. [![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)](https://github.com/Jack614/jalpc_jekyll_theme)
+# <a name="Venkat"></a>Venkat. [![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)](https://github.com/seventeen29/jekyll-theme)
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
-<https://jarrekk.github.io/Jalpc/>
+<https://seventeen29.github.io/homepage/>
 
 ![Blog](readme_files/blog.gif)
 
@@ -22,8 +22,8 @@
     * [Share](#share)
     * [Search engines](#search-engines)
     * [Compress CSS and JS files](#compress-css-js)
-* [Put in a Jalpc Plug](#put-in-a-jalpc-plug)
-* [Upgrading Jalpc](#upgrading-jalpc)
+* [Put in a Venkat Plug](#put-in-a-Venkat-plug)
+* [Upgrading Venkat](#upgrading-Venkat)
     * [Ensure there's an upstream remote](#ensure-theres-an-upstream-remote)
     * [Pull in the latest changes](#pull-in-the-latest-changes)
 * [Thanks to the following](#thanks-to-the-following)
@@ -37,7 +37,7 @@ If you're completely new to Jekyll, I recommend checking out the documentation a
 
 ## <a name="three-steps"></a> 3 steps to setup this theme at your website!
 
-Here is a [document](https://jarrekk.github.io/Jalpc/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html) of how to setup this theme with 3 steps.
+Here is a [document](https://seventeen29.github.io/Venkat/html/2017/01/31/3-steps-to-setup-website-with-Venkat.html) of how to setup this theme with 3 steps.
 
 ## <a name="feature"></a>Features
 
@@ -100,11 +100,11 @@ For example: URL is `http://127.0.0.1:4000/python/`. In `_data/blog.yml`, we def
 
 ### <a name="pagination"></a>Pagination
 
-The pagination in jekyll is not very perfect,so I use front-end web method,there is a [blog](http://www.jack003.com/html/2016/06/04/jekyll-pagination-with-jpages.html) about the method and you can refer to [jPages](http://luis-almeida.github.io/jPages).
+The pagination in jekyll is not very perfect,so I use front-end web method,there is a [blog](http://www.venkat.cool/html/2016/06/04/jekyll-pagination-with-jpages.html) about the method and you can refer to [jPages](http://luis-almeida.github.io/jPages).
 
 ### <a name="page-views-counter"></a>Page views counter
 
-Many third party page counter platforms are too slow,so I count my website page view myself,the javascript file is [static/js/count.min.js](https://github.com/jarrekk/jalpc_jekyll_theme/blob/gh-pages/static/js/count.min.js) ([static/js/count.js](https://github.com/jarrekk/jalpc_jekyll_theme/blob/gh-pages/static/js/count.js)),the backend API is written with flask on [Vultr VPS](https://www.vultr.com/), detail code please see [jalpc-flask](https://github.com/jarrekk/jalpc-flask).
+Many third party page counter platforms are too slow,so I count my website page view myself,the javascript file is [static/js/count.min.js](https://github.com/seventeen29/jekyll-theme/blob/gh-pages/static/js/count.min.js) ([static/js/count.js](https://github.com/seventeen29/jekyll-theme/blob/gh-pages/static/js/count.js)),the backend API is written with flask on [Vultr VPS](https://www.vultr.com/), detail code please see [Venkat-flask](https://github.com/seventeen29/Venkat-flask).
 
 ### <a name="multilingual-page"></a>Multilingual Page
 
@@ -135,7 +135,7 @@ Example `en.json`
 ```json
 {
   "website":{
-    "title": "Jalpc"
+    "title": "Venkat"
   },
   "nav":{
     "home": "Home",
@@ -219,20 +219,20 @@ I use [UglifyJS2](https://github.com/mishoo/UglifyJS2) and [clean-css](https://g
   **xxx** is date when you compress your files.
 3. If you want to add/remove CSS/JS files, just edit **build.js**, and run `npm run build` at root dir of project, link/src files will use new files.
 
-## <a name="put-in-a-jalpc-plug"></a>Put in a Jalpc Plug
+## <a name="put-in-a-Venkat-plug"></a>Put in a Venkat Plug
 
-If you want to give credit to the Jalpc theme with a link to my personal website <http://www.jack003.com>, that'd be awesome. No worries if you don't.
+If you want to give credit to the Venkat theme with a link to my personal website <http://www.venkat.cool>, that'd be awesome. No worries if you don't.
 
-## <a name="upgrading-jalpc"></a>Upgrading Jalpc
+## <a name="upgrading-Venkat"></a>Upgrading Venkat
 
-Jalpc is always being improved by its users, so sometimes one may need to upgrade.
+Venkat is always being improved by its users, so sometimes one may need to upgrade.
 
 ### <a name="ensure-theres-an-upstream-remote"></a>Ensure there's an upstream remote
 
 If `git remote -v` doesn't have an upstream listed, you can do the following to add it:
 
 ```
-git remote add upstream https://github.com/jarrekk/jalpc_jekyll_theme.git
+git remote add upstream https://github.com/seventeen29/jekyll-theme.git
 ```
 
 ### <a name="pull-in-the-latest-changes"></a>Pull in the latest changes
@@ -297,5 +297,5 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 
 ## <a name="ad"></a>Ad
 
-[Jalpc-A](https://github.com/Jack614/Jalpc-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
+[Venkat-A](https://github.com/seventeen29/Venkat-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
 
