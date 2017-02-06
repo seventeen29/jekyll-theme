@@ -1,18 +1,7 @@
 # links section data
-- last_name: Sankaran
-  first_name: Venkateswaran
-  desc: Head of Engineering
-  website: https://www.cipherboard.com
-  email: venkat@cipherboard.com
 
-- last_name: LDTP
-  first_name: TeamMember
-  desc: 
-  website: https://ldtp.freedesktop.org/wiki/TeamMembers/
-  email: wenkat.s@gmail.com
-
-- last_name: Github
+- last_name: Contact
   first_name: 
-  desc: seventeen29
-  website: https://github.com/seventeen29
-  email: 
+  desc: me@venkat.cool
+  website: http://www.venkat.cool/home/
+  email: me@venkat.cool

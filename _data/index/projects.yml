@@ -3,15 +3,15 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Cipherboard
   i18n: 
-  gh_user: 
+  gh_user: https://www.cipherboard.com
   repo: 
-  img: /static/assets/img/landing/jekyll.png
-  desc:  
+  img: /static/assets/img/landing/cipherboard.png
+  desc: A Custom keyboard that supports end to end encryption.
 
 - name: LDTP
   i18n: 
-  gh_user: 
+  gh_user: https://ldtp.freedesktop.org/wiki/TeamMembers/
   repo: 
-  img: /static/assets/img/landing/leetcode.png
-  desc: LeetCode is a website which has many valuable algorithmic questions, this is a project of kamyu104's, I forked it and added more solutions, if you like Python you can find fun from this project.
+  img: /static/assets/img/landing/ldtp.png
+  desc: GNU LDTP can test any GNOME-based GUI applications, which are accessibility-enabled
 

@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Ruby, Python, Bash, C, Nodejs, Golang, Android, iOS
-percentage: 90, 80, 80, 80, 90, 70, 60, 50, 40
+aspects: GitHub, Ruby, Python, Bash, C, Nodejs, Java, Golang, Android, iOS
+percentage: 100, 80, 80, 80, 90, 70, 60, 60, 50, 40
